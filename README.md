@@ -1,0 +1,2 @@
+# EmpireEarth2Trainer-ExeRelease
+EmpireEarth2Trainer-ExeRelease by RiritoNinigaya
